@@ -6,4 +6,4 @@ without manually commiting every few seconds/minutes while avoiding to create
 commits for every single change to keep overall amount of commits in check.
 
 Time limits can be set via environment variables SYNG_SYNC_AFTER and
-SYNG_FORCE_SYNC_AFTER.
+SYNG_FORCE_SYNC_AFTER (time in milliseconds).
